@@ -22,9 +22,10 @@ body {
 
 .container {
   background-color: var(--White);
-  width: 300px;
+  width: 290px;
   padding: 16px;
   border-radius: 1.2em;
+  box-shadow: 8px 24px 70px -5px rgba(123, 135, 157, 0.8);
 }
 
 img {
@@ -34,7 +35,7 @@ img {
 }
 
 .info {
-  padding: 10px 20px;
+  padding: 10px 15px;
   text-align: center;
 }
 
